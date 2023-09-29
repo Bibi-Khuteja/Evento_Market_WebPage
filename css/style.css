@@ -1,0 +1,261 @@
+
+.third-nav{
+    color: #000;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+
+.list{
+    color: #808080;
+font-family: Roboto;
+font-size: 1.2rem;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.grey{
+    background-color: #EBEDF4;
+}
+.product{
+    display: inline-block;
+}
+
+
+.three-div .title{
+    color: #333;
+font-family: Roboto;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.three-div .para{
+    color: #545454;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.search-parent{
+    position: relative;
+    padding: 1.8rem;
+}
+.search-child{
+    position: absolute;
+    top: 0.7rem;
+    background: #6CA128;
+    float: right;
+    text-align:end;
+   
+}
+.parent-img{
+    position: relative;
+}
+.child-img{
+    position: absolute;
+    top: 70px;
+    right: 70px;
+}
+.cards{
+    border-radius: 20px;
+    box-shadow: 4px 4px 6px 4px rgba(0, 0, 0, 0.1);
+    background-color: #F5F6FA;
+}
+.card-heading{
+    color: #333;
+font-family: Roboto;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.card-text1{
+    color: #333;
+text-align: center;
+font-family: Roboto;
+font-size: 1rem;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+.card-link{
+    color: #0982AE;
+font-family: Roboto;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.mycard-img{
+    margin-top: 100px;
+  
+}
+.view-button{
+    border-radius: 5px;
+background: #6CA128;
+box-shadow: 0px 2px 0px 0px #455037;
+}
+.white{
+    background-color: #ffffff;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 10px;
+    margin-top: 50px;
+    row-gap: 25px;
+    padding: 25px 10px 25px 10px
+
+}
+.unique-title{
+    color: #333;
+font-family: Roboto;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.unique-card{
+    border: 0;
+    border-color: #EBEDF4;
+}
+.long-card {
+    border-radius: 20px;
+opacity: 0.8;
+background: #F8F8FB;
+height: 56rem;
+
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.card-title1{
+    color: #4D4D4D;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.card-text2{
+    color: #999;
+font-family: Roboto;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.trolly{
+    justify-content:space-between;
+}
+.cards1{
+    border-radius: 5px;
+    box-shadow: 4px 4px 6px 4px rgba(0, 0, 0, 0.1);
+    background-color: #F5F6FA;
+}
+.para1{
+    color: #666;
+text-align: center;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+header{
+    background-color: #302D2D;
+}
+
+.hamburger{
+    display: none;
+    cursor: pointer;
+}
+
+.lou-card{
+    border: 0;
+}
+.lou-body{
+    padding: 0;
+}
+
+.casino-img{
+    border-radius: 10px;
+background: #E5E7E9;
+box-shadow: 5px 4px 20px 0px rgba(0, 0, 0, 0.25);
+
+}
+
+.dollar{
+    color: #545454;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.unlimited{
+color: #333;
+font-family: Roboto;
+font-size: 44px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.cozy-text{
+    color: #4D4D4D;
+font-family: Roboto;
+font-size: 13px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.cozy-para{
+    color: #999;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.baby{
+    align-items: center;
+}
+.nose-card{
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+}
+.nose-img{
+    border-bottom-left-radius: 0
+}
+.footer{
+    background-color: #1A1A1A;
+}
+.footer-head{
+    color: #808080;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.foot-item{
+    color: #FFF;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+background-color:  #1A1A1A;
+border: 0;
+padding: 1rem 0;
+    
+}
+.footer-list{
+    flex-direction: row;
+}
